@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_Movies</string>
+    <string name="The_most_popular">Самые популярные</string>
+    <string name="Top_rated">Наиболее рейтинговые</string>
+</resources>
